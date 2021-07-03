@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @merinosilva
+- 👋 Hi, I’m @merinosilva (Shihan Silva)
 - 👀 I’m interested in Java / C# / React JS / Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any AI related project
